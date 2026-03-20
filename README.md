@@ -123,11 +123,6 @@ Contains all transactional data including:
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add screenshots here)
-
----
 
 ## 🚀 How to Use
 
@@ -155,5 +150,5 @@ This project uses **synthetic data** created for learning and analytical purpose
 ---
 
 ## 🙌 Author
-
+M. Jeevitha
 Created as part of a data analytics internship project.
