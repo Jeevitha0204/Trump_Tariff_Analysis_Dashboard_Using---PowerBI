@@ -129,6 +129,7 @@ Contains all transactional data including:
 1. Download the `.pbix` file
 2. Open using Power BI Desktop
 3. Explore dashboards using filters (Year, Scenario, Country, Category)
+4. https://app.powerbi.com/groups/me/reports/4e64234f-4e33-432c-b54c-a53ac05c1537/29754e70eab859cd2795?experience=power-bi
 
 ---
 
